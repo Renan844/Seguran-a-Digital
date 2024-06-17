@@ -1,0 +1,139 @@
+@font-face { 
+    font-family: font_2;
+    src: url(Orbitron-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: font_1;
+    src: url(Jersey25-Regular.ttf);
+}
+h1 {
+    text-align:left;
+    color: rgb(18, 35, 37) !important;
+}
+h2 {
+    text-align: left;
+    font-size:medium !important
+}
+h3{
+    color: rgb(87, 65, 18) !important;
+}
+p {
+    
+    font-size: x-large;
+}
+strong{
+    
+    font-size: x-large;
+    
+
+}
+ol{
+   text-align: left;
+    font-size: x-large;
+
+}
+div{
+    font-family: font_2;
+
+}
+#tb1 {
+    border: 2px solid aqua !important;
+}
+button {
+    margin: 5px !important;
+    color: rgb(5, 36, 27) !important;
+}
+img {
+    display: block;
+    margin: auto;
+}
+body {
+    background-image: url('back.jpg ');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+fieldset {
+    width: 200px;
+    height: 375px;
+    margin: auto;
+}
+form {
+    margin: auto;
+    text-align: center;
+}
+#titulo{
+    padding-top: 20px;
+    vertical-align: middle;
+}
+#iSD{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-size:xx-large;
+    color: brown !important;
+}
+#iCdeSD{
+    padding-bottom: 35px;
+    text-align: center;
+    font-size:xx-large !important;
+    color: brown !important;
+}
+#iPA{
+    padding-bottom: 35px;
+    text-align: center;
+    font-size:xx-large !important;
+    color: brown !important;
+}
+#iMdeS{
+    padding-bottom: 35px;
+    text-align: center;
+    font-size:xx-large !important;
+    color: brown !important;
+}
+#iCeR{
+    padding-bottom: 35px;
+    text-align: center;
+    font-size:xx-large !important;
+    color: brown !important;
+}
+#iTF{
+    padding-bottom: 35px;
+    text-align: center;
+    font-size:xx-large !important;
+    color: brown !important;
+}
+#iReRaI{
+    padding-bottom: 35px;
+    text-align: center;
+    font-size:xx-large !important;
+    color: brown !important;
+}
+#iradio{
+    text-align: justify;
+}
+#igostou{
+    font-size: larger;
+    color:aliceblue
+}
+#inav{
+    text-align: center;
+}
+#Comentarios{
+    font-size: large;
+
+}
+#creditos{
+    text-align: left;
+    font-size: large;
+}
+#cr{
+    text-align: left;
+}
+#qr{
+    padding-bottom: 20px;
+    
+   
+    
+}
